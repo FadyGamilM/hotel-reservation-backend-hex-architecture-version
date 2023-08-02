@@ -1,0 +1,1 @@
+# hotel-reservation-backend-hex-architecture-version
